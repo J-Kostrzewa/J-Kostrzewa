@@ -42,6 +42,10 @@ Obecnie rozwijam swoje umiejętności w różnorodnych technologiach, tworząc z
 
 ### Moje wybrane projekty autorskie
 
+🎮 **Grafika Komputerowa (OpenGL)**
+- **[Interaktywna Scena](https://github.com/J-Kostrzewa/InteraktywnaScena-OpenGL)** - Interaktywna scena 3D z implementacją oświetlenia Blinna-Phonga, Instancjonowaniem oraz zastosowaniem grafu sceny. *Technologie: C++, OpenGL, GLSL.*
+- **[Układ słoneczny](https://github.com/J-Kostrzewa/UkladSloneczny-OpenGL)** - Symulacja Układu słonecznego z zastosowaniem grafu sceny.
+
 🔒 **Kryptografia**
 - **[AES-Encryption](https://github.com/J-Kostrzewa/AES-Encryption)** - Desktopowa aplikacja (Java) z interfejsem graficznym do szyfrowania plików i zwykłego tekstu z wykorzystaniem algorytmu AES.
 - **[RSA-Encryption](https://github.com/J-Kostrzewa/RSA-Encryption)** - Desktopowa aplikacja (Java) z GUI do szyfrowania danych przy pomocy algorytmu RSA.
